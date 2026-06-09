@@ -132,41 +132,41 @@
          array. The brightness values must be non-negative and non-decreasing. This must be
          overridden in platform specific overlays -->
     <array name="config_autoBrightnessDisplayValuesNits">
-        <item>2.5</item>
-        <item>7.5</item>
-        <item>13</item>
+        <item>5</item>
+        <item>10</item>
         <item>18</item>
         <item>25</item>
-        <item>30</item>
-        <item>38</item>
+        <item>35</item>
         <item>45</item>
-        <item>50</item>
         <item>55</item>
-        <item>60</item>
-        <item>70</item>
-        <item>79</item>
-        <item>82</item>
-        <item>90</item>
-        <item>98</item>
-        <item>106</item>
-        <item>113</item>
-        <item>152</item>
-        <item>160</item>
-        <item>168</item>
-        <item>177</item>
-        <item>185</item>
-        <item>194</item>
-        <item>203</item>
-        <item>212</item>
-        <item>222</item>
-        <item>232</item>
-        <item>243</item>
-        <item>391</item>
-        <item>500</item>
-        <item>545</item>
+        <item>65</item>
+        <item>75</item>
+        <item>85</item>
+        <item>95</item>
+        <item>110</item>
+        <item>125</item>
+        <item>135</item>
+        <item>150</item>
+        <item>165</item>
+        <item>180</item>
+        <item>200</item>
+        <item>230</item>
+        <item>245</item>
+        <item>260</item>
+        <item>275</item>
+        <item>290</item>
+        <item>305</item>
+        <item>320</item>
+        <item>335</item>
+        <item>350</item>
+        <item>365</item>
+        <item>380</item>
+        <item>450</item>
+        <item>550</item>
         <item>600</item>
         <item>650</item>
-        <item>720</item>
+        <item>700</item>
+        <item>750</item>
         <item>800</item>
     </array>
 
